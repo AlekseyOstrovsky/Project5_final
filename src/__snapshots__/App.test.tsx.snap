@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`React App component contains sidebar 1`] = `
+<div
+  class="sidebar"
+  data-testid="sidebar"
+>
+  <div
+    class="sidebar__title"
+  >
+    <span>
+      ПОДБОР ПО ПАРАМЕТРАМ
+    </span>
+    <div
+      class="sidebar__mobile-dropdown"
+    >
+      <img
+        alt="Назад"
+        src="arrow-mobile.png"
+      />
+    </div>
+  </div>
+  <div
+    class="sidebar__mobile-dropdown-wrapper"
+  >
+    <div
+      class="price-filter"
+    >
+      <div
+        class="price-filter__header"
+      >
+        Цена 
+        <span>
+          ₸
+        </span>
+      </div>
+      <div
+        class="price-filter__main"
+      >
+        <input
+          data-testid="minprice"
+          type="number"
+          value="0"
+        />
+        <span>
+          -
+        </span>
+        <input
+          data-testid="maxprice"
+          type="number"
+          value="10000"
+        />
+      </div>
+    </div>
+    <div
+      class="producers__wraper"
+    >
+      <div
+        class="sidebar__title"
+      >
+        Производитель
+      </div>
+      <div
+        class="producers__input"
+      >
+        <input
+          placeholder="Поиск..."
+          type="text"
+          value=""
+        />
+        <div
+          class="producers__input-search-logo"
+        >
+          <img
+            alt="Поиск"
+            src="search.png"
+          />
+        </div>
+      </div>
+    </div>
+    <hr
+      class="sidebar__hr"
+    />
+    <div
+      class="sidebar__usage"
+    >
+      <div
+        class="sidebar__usage__element"
+      >
+        Уход за телом
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Уход за руками
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Уход за ногами
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Уход за лицом
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Уход за волосами
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Средства для загара
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Средства для бритья
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Подарочные наборы
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Гигиеническая продукция
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Гигиена полости рта
+      </div>
+      <div
+        class="sidebar__usage__element"
+      >
+        Бумажная продукция
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`React App component contains usagebar 1`] = `
+<div
+  class="usage"
+  data-testid="usagebar"
+>
+  <div
+    class="usage__element"
+  >
+    Уход за телом
+  </div>
+  <div
+    class="usage__element"
+  >
+    Уход за руками
+  </div>
+  <div
+    class="usage__element"
+  >
+    Уход за ногами
+  </div>
+  <div
+    class="usage__element"
+  >
+    Уход за лицом
+  </div>
+  <div
+    class="usage__element"
+  >
+    Уход за волосами
+  </div>
+  <div
+    class="usage__element"
+  >
+    Средства для загара
+  </div>
+  <div
+    class="usage__element"
+  >
+    Средства для бритья
+  </div>
+  <div
+    class="usage__element"
+  >
+    Подарочные наборы
+  </div>
+  <div
+    class="usage__element"
+  >
+    Гигиеническая продукция
+  </div>
+  <div
+    class="usage__element"
+  >
+    Гигиена полости рта
+  </div>
+  <div
+    class="usage__element"
+  >
+    Бумажная продукция
+  </div>
+</div>
+`;
